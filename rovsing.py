@@ -193,6 +193,7 @@ sleep(2)
 driver.save_screenshot("screenshort.png")
 
 print ()
+sleep(2)
 
 
 driver.close()
